@@ -26,8 +26,11 @@
   "build": {
     "appId": "alexhu.com.appid",
     "win": {
-      "target": "nsis",
+      "target": "squirrel",
       "icon": "build/icon.ico"
-    } 
+    }
+  },
+  "dependencies": {
+    "electron-builder-squirrel-windows": "^22.5.1"
   }
 }

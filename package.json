@@ -27,7 +27,7 @@
     "appId": "alexhu.com.appid",
     "win": {
       "target": "squirrel",
-      "icon": "build/icon.ico" 
+      "icon": "icon.ico" 
     }
   },
   "dependencies": {
